@@ -1,0 +1,30 @@
+#container {
+    display: flex;
+    flex-direction: row;
+}
+
+.sidebar {
+    width: 30%;
+    margin: 10px 0 10px 0;
+    padding: 10px;
+}
+
+.content {
+    width: 70%;
+    margin: 10px 0 10px 0;
+    border-left: solid 2px #ff0000;
+    padding: 10px;
+}
+
+h3{
+    color:blue
+}
+
+.sidebar li{
+    margin: 10px;
+}
+
+.sidebar h3{
+    text-align : center;
+    background-color: blanchedalmond;
+}
