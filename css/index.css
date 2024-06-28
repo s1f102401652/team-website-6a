@@ -1,6 +1,6 @@
-#container {
+#content {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
 }
 
 .sidebar {
@@ -12,7 +12,7 @@
 .content {
     width: 70%;
     margin: 10px 0 10px 0;
-    border-left: solid 2px #ff0000;
+    border-left: solid 2px #000000;
     padding: 10px;
 }
 
